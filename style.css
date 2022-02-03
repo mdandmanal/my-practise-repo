@@ -1,0 +1,33 @@
+h1{
+    background-color: blue;
+    height: 100px;
+    width: 500px;
+color:yellow;
+    padding: 50px 10px 20px 50px;
+    border: 10px solid black;
+    border-radius: 10px;
+    
+    
+
+}
+p{
+    font-size: 50px;
+    font-weight: bolder;
+}
+ol{
+    background-color: brown;
+}
+
+.list{
+    
+    
+}
+.green{
+    background-color: green;
+    font-weight: bolder;
+
+}
+.red{
+    background-color: red;
+    font-weight: bolder;
+}
